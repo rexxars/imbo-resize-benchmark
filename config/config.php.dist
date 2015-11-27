@@ -1,0 +1,13 @@
+<?php
+return [
+    'serverUrls' => ['http://imbo'],
+    'user' => 'user',
+    'publicKey' => 'pubkey',
+    'privateKey' => 'privkey',
+
+    'numImages' => 100,
+    'iterations' => 3,
+    'format' => 'jpg',
+    'transformation' => 'maxSize',
+    'size' => [320, 240],
+];

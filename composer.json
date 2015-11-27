@@ -1,0 +1,14 @@
+{
+    "name": "imbo/resize-benchmark",
+    "description": "Simple resize benchmark for Imbo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Espen Hovlandsdal",
+            "email": "espen@hovlandsdal.com"
+        }
+    ],
+    "require": {
+        "imbo/imboclient": "^1.2"
+    }
+}
